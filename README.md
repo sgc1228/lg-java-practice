@@ -6,10 +6,10 @@ LG CNS AM Inspire Camp 7기 백엔드 I — Java 프로그래밍 수업 실습 �
 
 | 실습 | 주제 | 위치 |
 |---|---|---|
-| 실습1 | 캡슐화(Encapsulation) | `src/lab1` |
-| 실습2 | 캡슐화 · 배열(Array) · 컬렉션(List) | `src/lab2` |
-| 실습3 | 캡슐화 · 상속(Inheritance) · 다형성(Polymorphism) | `src/lab3` |
-| 실습4 | 추상 클래스(Abstract Class) · 인터페이스(Interface) | `src/lab4` |
+| 실습1 | 학생 정보(Student) 클래스 구현 | `src/lab1` |
+| 실습2 | 도서(Book) · 도서관(Library) | `src/lab2` |
+| 실습3 | 은행 계좌 관리 시스템(Bank · Account · 예외 처리) | `src/lab3` |
+| 실습4 | 출판물(Publication) 관리 · 통계 | `src/lab4` |
 
 ## 개발 환경
 
