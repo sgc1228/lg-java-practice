@@ -63,7 +63,7 @@ public class Bank {
 	}
 
 	public List<Account> getAccounts() {
-		return accounts;
+		return new ArrayList<>(accounts);
 	}
 
 	public void printAllAccounts() {
