@@ -81,7 +81,7 @@ public class Library {
 	}
 
 	public List<Book> getAllBooks() {
-		return books;
+		return new ArrayList<>(books);
 	}
 
 	public int getTotalBooks() {
